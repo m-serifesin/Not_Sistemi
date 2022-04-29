@@ -1,0 +1,11 @@
+D:\udemy_c#\ogrenci_sınav_sistemi\ogrenci_sınav_sistemi\bin\Debug\ogrenci_sınav_sistemi.exe.config
+D:\udemy_c#\ogrenci_sınav_sistemi\ogrenci_sınav_sistemi\bin\Debug\ogrenci_sınav_sistemi.exe
+D:\udemy_c#\ogrenci_sınav_sistemi\ogrenci_sınav_sistemi\bin\Debug\ogrenci_sınav_sistemi.pdb
+D:\udemy_c#\ogrenci_sınav_sistemi\ogrenci_sınav_sistemi\obj\Debug\ogrenci_sınav_sistemi.csproj.AssemblyReference.cache
+D:\udemy_c#\ogrenci_sınav_sistemi\ogrenci_sınav_sistemi\obj\Debug\ogrenci_sınav_sistemi.csproj.SuggestedBindingRedirects.cache
+D:\udemy_c#\ogrenci_sınav_sistemi\ogrenci_sınav_sistemi\obj\Debug\ogrenci_sınav_sistemi.Form1.resources
+D:\udemy_c#\ogrenci_sınav_sistemi\ogrenci_sınav_sistemi\obj\Debug\ogrenci_sınav_sistemi.Properties.Resources.resources
+D:\udemy_c#\ogrenci_sınav_sistemi\ogrenci_sınav_sistemi\obj\Debug\ogrenci_sınav_sistemi.csproj.GenerateResource.cache
+D:\udemy_c#\ogrenci_sınav_sistemi\ogrenci_sınav_sistemi\obj\Debug\ogrenci_sınav_sistemi.csproj.CoreCompileInputs.cache
+D:\udemy_c#\ogrenci_sınav_sistemi\ogrenci_sınav_sistemi\obj\Debug\ogrenci_sınav_sistemi.exe
+D:\udemy_c#\ogrenci_sınav_sistemi\ogrenci_sınav_sistemi\obj\Debug\ogrenci_sınav_sistemi.pdb
